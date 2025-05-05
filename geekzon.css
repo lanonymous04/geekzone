@@ -1,0 +1,476 @@
+.background {
+    height: 1250PX;
+    width: 1250PX;
+    background-image: radial-gradient(farthest-corner at 50px 50px, #3F2182 10%, white 100%);
+    display: block;
+}
+
+.carrer {
+    top: 190px;
+    left: 100px;
+    width: 165px;
+    height: 270px;
+    position: relative;
+    border-radius: 2px 4px 2px;
+    background-image: radial-gradient(#fafafa 0%, #67BB5B 110%);
+    border-radius: 20px;
+}
+
+
+
+a:hover {
+    text-decoration: none;
+}
+
+.no-underline {
+    text-decoration: none;
+}
+
+.carrer1 {
+    top: -80px;
+    left: 300px;
+    width: 165px;
+    height: 270px;
+    position: relative;
+    border-radius: 2px 4px 2px;
+    background-image: radial-gradient(#fafafa 0%, #67BB5B 110%);
+    border-radius: 20px;
+}
+
+.carrer2 {
+top: -350px;
+left: 500px;
+width: 165px;
+height: 270px;
+position: relative;
+border-radius: 2px 4px 2px;
+background-image: radial-gradient(#fafafa 0%, #67BB5B 110%);
+border-radius: 20px;
+}
+
+.carrer3 {
+top: -620px;
+left: 700px;
+width: 165px;
+height: 270px;
+position: relative;
+border-radius: 2px 4px 2px;
+background-image: radial-gradient(#fafafa 0%, #67BB5B 110%);
+border-radius: 20px;
+}
+
+.carrer4 {
+top: -890px;
+left: 900px;
+width: 165px;
+height: 270px;
+position: relative;
+border-radius: 2px 4px 2px;
+background-image: radial-gradient(#fafafa 0%, #67BB5B 110%);
+border-radius: 20px;
+}
+
+#tous {
+position: relative;
+top: 150px;
+left: 130px;
+width: 50px;
+height: 30PX;
+color: black;
+background-color: white;
+border: 1px solid white; 
+border-radius:  20px 20px 20px 20px;
+font-size:16px;
+}
+
+
+ #cléusb {
+position: relative;
+top: 150px;
+left: 150px;
+width: 145px;
+height: 30PX; 
+color: black;
+background-color: #3F2182;
+border: 1px solid white; 
+border-radius:  20px 20px 20px 20px;
+font-size:16px;
+    }
+
+    
+#gadgets{
+position: relative;
+top: 150px;
+left: 160px;    
+width: 145px;
+height: 30PX;
+color: black;
+background-color: #3F2182;
+border: 1px solid white; 
+border-radius:  20px 20px 20px 20px;
+font-size:16px;
+}
+#téléphone{
+position: relative;
+top: 150px;
+left: 170px;
+width: 145px;
+height: 30PX;
+color: black;
+background-color: #3F2182;
+border: 1px solid white; 
+border-radius:  20px 20px 20px 20px;
+font-size:16px;
+}
+
+#cuisine{
+position: relative;
+top: 150px;
+left: 180px;
+width: 145px;
+height: 30PX;
+color: black;
+background-color: #3F2182;
+border: 1px solid white; 
+border-radius:  20px 20px 20px 20px;
+font-size:16px;
+}
+
+#mode{
+position: relative;
+top: 150px;
+left: 190px;
+width: 145px;
+height: 30PX;
+color: black;
+background-color: #3F2182;
+border: 1px solid white; 
+border-radius:  20px 20px 20px 20px;
+font-size:16px;
+}
+#tous1 {
+    position: relative;
+    top: 150px;
+    left: 130px;
+    width: 50px;
+    height: 30PX;
+    color: white;
+    background-color: #3F2182;
+    border: 1px solid white; 
+    border-radius:  20px 20px 20px 20px;
+    font-size:16px;
+    }
+    
+    
+     #cléusb1 {
+    position: relative;
+    top: 150px;
+    left: 150px;
+    width: 145px;
+    height: 30PX; 
+    color: black;
+    background-color:white;
+    border: 1px solid white; 
+    border-radius:  20px 20px 20px 20px;
+    font-size:16px;
+        }
+
+#gadgets1{
+position: relative;
+top: 150px;
+left: 160px;    
+width: 145px;
+height: 30PX;
+color: black;
+background-color: white;
+border: 1px solid white; 
+border-radius:  20px 20px 20px 20px;
+font-size:16px;
+}
+#téléphone1{
+position: relative;
+top: 150px;
+left: 170px;
+width: 145px;
+height: 30PX;
+color: black;
+background-color: white;
+border: 1px solid white; 
+border-radius:  20px 20px 20px 20px;
+font-size:16px;
+}
+#cuisine1{
+    position: relative;
+    top: 150px;
+    left: 180px;
+    width: 145px;
+    height: 30PX;
+    color: black;
+    background-color: white;
+    border: 1px solid white; 
+    border-radius:  20px 20px 20px 20px;
+    font-size:16px;
+    }
+    
+    #mode1{
+    position: relative;
+    top: 150px;
+    left: 190px;
+    width: 145px;
+    height: 30PX;
+    color: black;
+    background-color: white;
+    border: 1px solid white; 
+    border-radius:  20px 20px 20px 20px;
+    font-size:16px;
+    }
+
+#Recherche{
+    top: 110px;
+    left: 154px;
+    position: absolute;
+    background-color: transparent; 
+    border: none; 
+    color: White;
+    color: white;
+    font-weight: 100;
+    font-size:20px;
+    border-bottom:BLACK solid 1PX;
+    width: 800PX;
+   
+}
+Recherche:hover{
+    text-decoration: none;
+    border: none;
+}
+
+.carrer5{
+    top: 190px;
+    left: 100px;
+    width: 310px;
+    height: 355px;
+    position: relative;
+    border-radius: 2px 4px 2px;
+    background-image: radial-gradient(#fafafa 0%, #67BB5B 110%);
+    border-radius: 20px;
+}
+.carrer6{
+    top: -165px;
+    left: 450px;
+    width: 310px;
+    height: 355px;
+    position: relative;
+    border-radius: 2px 4px 2px;
+    background-image: radial-gradient(#fafafa 0%, #67BB5B 110%);
+    border-radius: 20px;
+}
+
+.carrer7{
+    top: -520px;
+    left:800px;
+    width: 310px;
+    height: 355px;
+    position: relative;
+    border-radius: 2px 4px 2px;
+    background-image: radial-gradient(#fafafa 0%, #67BB5B 110%);
+    border-radius: 20px;
+}
+
+.carrer9{
+    top: -685px;
+    left:100px;
+    width: 310px;
+    height: 355px;
+    position: relative;
+    border-radius: 2px 4px 2px;
+    background-image: radial-gradient(#fafafa 0%, #67BB5B 110%);
+    border-radius: 20px;
+}
+
+img{
+    border-radius: 20px;
+}
+.image-arrondie {
+    border-radius: 70%; 
+    overflow: hidden;
+    position: relative;
+  }
+  .annecy{
+    left: 40px;
+    top:-850px;
+    position: relative;
+  }
+  .clermont{
+    left: 300px;
+    top:-1060px;
+    position: relative;
+  }
+  .grenoble{
+    left: 560PX;
+    top:-1265px;
+    position: relative;
+  }
+  .lyon{
+    left: 900px;
+    top:-1470px;
+    position: relative;
+  }
+
+  .albert{
+    left: 168px;
+    top: -1400px;
+    position: relative;
+  }
+  .valence{
+    left: 785px;
+    top: -1600PX;
+    position: relative;
+  }
+  .cham{
+    left: 450px;
+    top:-1810px;
+    position: relative;
+  }
+  
+#annecy {
+    position: relative;
+    top: -230px;
+    left: 150px;
+    color: black;
+    background-color: transparent;
+    font-size:16px;
+    text-decoration: none;
+    border: none;
+    font-size: 24px;
+        }
+#clermont {
+position: relative;
+ top: -230px;
+left: 150px;
+ color: black;
+background-color: transparent;
+font-size:16px;
+text-decoration: none;
+border: none;
+font-size: 24px;
+ }
+ #grenoble {
+position: relative;
+top: -230px;
+left: 165px;
+ color: black;
+background-color: transparent;
+font-size:16px;
+text-decoration: none;
+border: none;
+font-size: 24px;
+}
+#lyon{
+    position: relative;
+    top: -230px;
+    left: 140px;
+     color: black;
+    background-color: transparent;
+    font-size:16px;
+    text-decoration: none;
+    border: none;
+    font-size: 24px;
+    }
+
+#albert{
+    position: relative;
+    top: 50px;
+    left: 145px;
+     color: black;
+    background-color: transparent;
+    font-size:16px;
+    text-decoration: none;
+    border: none;
+    font-size: 24px;
+    }
+    #valence{
+        position: relative;
+        top: 50px;
+        left: 150px;
+         color: black;
+        background-color: transparent;
+        font-size:16px;
+        text-decoration: none;
+        border: none;
+        font-size: 24px;
+        }  
+#cham
+{
+            position: relative;
+            top: 50px;
+            left: 165px;
+             color: black;
+            background-color: transparent;
+            font-size:16px;
+            text-decoration: none;
+            border: none;
+            font-size: 24px;
+ }
+           
+
+
+.ping{
+   
+    position: relative;
+    top: 300px;
+    left: 100px;
+
+}
+
+.carte {
+    position: relative;
+    top:365px;
+    left: 150px;
+
+}  
+.clermont1{
+    left: 550px;
+    top:-200px;
+    position: relative;
+  }
+  .Descriptifclermond{
+    background: #fafafa; 
+    border-color: #67BB5B ; 
+    border-width: 2px; 
+    border-style: solid; 
+    height: 40px;
+    width: 250px;
+    top: 385px;
+    left: 700px;
+    position: absolute;
+    font-size: 24px;
+  }
+ 
+  .carrerdescri{
+    background: #67BB5B ; 
+    border-color: #fafafa ; 
+    border-width: 2px; 
+    border-style: solid; 
+    height: 300px;
+    width: 250px;
+    top: 430px;
+    left: 700px;
+    position: absolute;
+    font-size: 24px;
+  }
+  
+ 
+  .centrer1{
+    top: 200px;
+    text-align: center;
+    position: relative;
+    font-size: 24px;
+   
+  }
+ 
+  .clermont1 {
+    position: absolute;
+    top: 40px;
+    left: 234px;
+    font-size: 24px;
+  }
